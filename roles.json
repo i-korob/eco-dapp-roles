@@ -1,14 +1,416 @@
 [
   {
+    "id": "945700793800077333",
+    "label": "Activity Manager",
+    "description": "members that are involved with creating new activities for the community",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "794718604808814622",
+    "label": "Admin",
+    "description": "Eco Server Admins.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "821173280546750484",
+    "label": "App User",
+    "description": "This role is assigned to community members who are currently using the Eco App.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "947173356678053938",
+    "label": "Artist",
+    "description": "gifted artists within the community",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "810643655404290058",
+    "label": "Assistant",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "810317005667958807",
+    "label": "Booster",
+    "description": "This role is assigned to any member of the community who has supported the Eco Discord server by donating a ‘Server Boost.’",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "937764786769367041",
+    "label": "Captcha.bot",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "971086634386853978",
+    "label": "Chessmaster",
+    "description": "Master of Chess",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "810504768861634560",
+    "label": "Close Friends",
+    "description": "close acquaintances of the Eco team",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "904063264391049228",
+    "label": "coach",
+    "description": "for fitness coaches that help to keep the community fit",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "958730307710889984",
+    "label": "Creative",
+    "description": "1+1=3",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "931566742029885451",
+    "label": "DAO Master",
+    "description": "given to those who have mastered the fundamentals of decentralized autonomous organizations (DAOs)",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "906544510694211674",
+    "label": "DAOist",
+    "description": "member that actively participates in the planning and coordinating of the governance process of Eco",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "892842987334303765",
+    "label": "Deleted Messages Bot",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "846697170831802368",
+    "label": "DJ",
+    "description": "for members who provide the community with music and host DJ events",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "949411755417800715",
+    "label": "Documentarion",
+    "description": "members who document important events within the community and the Ecosystem",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "889096828073680928",
+    "label": "Eco",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "966679921562878052",
+    "label": "Eco Award 2021",
+    "description": "1+1=2021",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "820739427931389953",
+    "label": "Eco FAQ Bot",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "768558990149156896",
+    "label": "Eco Team",
+    "description": "This role denotes Eco Team members.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "821430103711023155",
+    "label": "Eco Voting Captcha Bot",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "857337874780782643",
+    "label": "EcoDiscordButler",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "917488309763186728",
+    "label": "ecollaborator",
+    "description": "external collaborators of the Eco community from other communities such as Klima",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "946116730760101908",
+    "label": "Ecomate",
+    "description": "for community members that hold both Eco Points and $Klima",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "818523937029619753",
+    "label": "EcoMemeBot",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "920767296400683048",
+    "label": "Era 0",
+    "description": "for all members who were part of the community before November 24 at 10:22am UTC",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "966385305437491260",
+    "label": "Events",
+    "description": "in the #events-role channel you can get this role by clicking on the smiley face.You will then receive notifications of all community events and tasks!",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "950101658199805962",
+    "label": "Fizzle",
+    "description": "specific role given to Rob Fizzle, the co-host of Trust but Verify",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "945689534111285318",
+    "label": "Fortune Teller",
+    "description": "astronomy specialists in the community",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "892451787729162260",
+    "label": "Herald",
+    "description": "The @Herald role is granted to select members of the Eco-mmunity who are constantly active, welcoming to new members and helpful in answering questions as they come up.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "818636664246239263",
+    "label": "Infrastructure Engineer",
+    "description": "This role applies to bot engineers/community members who help build and maintain the tools that are used in the Eco Discord server every day.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "814331809721614389",
+    "label": "Invite-Role Bot",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "945466771576590399",
+    "label": "Klima / Eco Operator",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
     "id": "813884344573624360",
     "label": "Layer 0",
-    "description": "layer0",
-    "icon": "https://mockup-api.teespring.com/v3/image/pJoqqVSY496_e1x7ZJRx8K90vWg/560/560.jpg"
+    "description": "This is the role assigned to all new members as they enter the Eco Discord Server. Layer 0 only has access to the #start-here channel.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
   },
   {
     "id": "809055455207882782",
     "label": "Layer 1",
-    "description": "layer1 new commit!",
+    "description": "This role is assigned by clicking the Eco logo below the message in the #start-here channel and grants community members access to the majority of content in the Eco Discord.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "871715255556931606",
+    "label": "Layer 2",
+    "description": "This role is manually assigned by the Eco team to community members who have an established reputation within the Eco community. This role grants access to select channels / challenges and bounties that allow trusted community members to interact and collaborate with each other.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "812675567438659624",
+    "label": "Layer 3",
+    "description": "This role is currently assigned manually by Eco to community members who have a direct personal or professional relationship with the Eco project. This includes investors, members of partner projects or colleagues in the crypto of fintech space.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "943215596001194044",
+    "label": "Lofi Radio",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "836785280244514867",
+    "label": "LotteryBot",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "888862431407923202",
+    "label": "MEE6",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "917102560656126024",
+    "label": "memelord",
+    "description": "given how to the masters of memetic artistry",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "897831992035541012",
+    "label": "ModestolichTesting",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "854755661224738816",
+    "label": "Multisig Signer",
+    "description": "The Eco community owns a multi signature Gnosis safe that custody community funds and supports community efforts. The Multisig-Signer role denotes community members who are signatories to this safe.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "856561247377031169",
+    "label": "Muted",
+    "description": "1+1=0",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "958730594374811688",
+    "label": "Operations",
+    "description": "1+1=2",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "818665763786719272",
+    "label": "Overseas Envoys",
+    "description": "The Overseas Envoy role applies to community members who function in a semi-moderator or leadership role with regard to specific communities based outside of the US.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "931967328562847834",
+    "label": "Poker Champion",
+    "description": "Members who have won an Eco community poker tournament.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "944328103218544681",
+    "label": "Poker Player",
+    "description": "This role allows community members to access and play in Eco community poker tournaments. Keep your eyes peeled for announcements about upcoming events and then DM Dave | Eco#2900 to get in the game!",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "855051260499329054",
+    "label": "Prefect",
+    "description": "Community members who are assigned this role have agreed to be responsible for acting as custodians of the Discord Server and fulfilling the following duties:\n\nAnswering questions from new members of the community and helping them find the answers they are seeking by directing them to the appropriate resources.\nModerating discussions and ensuring everyone abides by the #📜community-guidelines .\nHelping Eco fairly distribute :points: across the community in order to ensure that (to the extent possible) all genuine efforts and contributions to the community are fairly rewarded.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "816499203466330112",
+    "label": "Prehistoric",
+    "description": "Our computers are made out of their fossils",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "872619881881800744",
+    "label": "PT",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "946354202068811777",
+    "label": "Quest Master",
+    "description": "members who provide the committee with exciting quests",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "958730655859105792",
+    "label": "Research | Analysis",
+    "description": "1+1=10?",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "885978017980112908",
+    "label": "Role Assignment Bot",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "809113355071389739",
+    "label": "Server Stats",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "900393197832912896",
+    "label": "TbV",
+    "description": "for the hosts of Trust but Verify, an Eco-themed radio show",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "979051820259373106",
+    "label": "Teacher",
+    "description": "Knowledge printer goes brrr",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "958730737392189491",
+    "label": "Technology",
+    "description": "1+1=10",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "887131830195744789",
+    "label": "temp",
+    "description": "1+1=a",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "814640021768110141",
+    "label": "The Accountant",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "909893262653931521",
+    "label": "The Cantor",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "974693584764813372",
+    "label": "Ticket Master",
+    "description": "for members that distribute lottery tickets",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "922798680824758292",
+    "label": "Timekeeper",
+    "description": "members that provide the community with daily facts and “Did you know…?” infos",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "962103184552243214",
+    "label": "TweetShift",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "938912552547680338",
+    "label": "VoteBot",
+    "description": "BOT",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "937740530597642310",
+    "label": "Voter",
+    "description": "Dave stole our votes",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "814328243548848139",
+    "label": "Waiting Room",
+    "description": "New community members who are eligible to use the Eco App but who have not yet been onboarded are assigned the ‘Waiting Room’ role and have limited access to the Eco Discord server.",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "950363296836497429",
+    "label": "Wellness Coach",
+    "description": "for community members coaching others in the area of wellness and health",
+    "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
+  },
+  {
+    "id": "872245461308829726",
+    "label": "Zapier",
+    "description": "BOT",
     "icon": "https://mockup-api.teespring.com/v3/image/ELSSp4vYqxFZoEcs-X--1nrFHeM/560/560.jpg"
   }
 ]
